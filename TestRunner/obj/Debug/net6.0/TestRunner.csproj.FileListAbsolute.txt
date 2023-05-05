@@ -1,0 +1,15 @@
+C:\Development\HackerRankTests\TestRunner\TestRunner\bin\Debug\net6.0\TestRunner.exe
+C:\Development\HackerRankTests\TestRunner\TestRunner\bin\Debug\net6.0\TestRunner.deps.json
+C:\Development\HackerRankTests\TestRunner\TestRunner\bin\Debug\net6.0\TestRunner.runtimeconfig.json
+C:\Development\HackerRankTests\TestRunner\TestRunner\bin\Debug\net6.0\TestRunner.dll
+C:\Development\HackerRankTests\TestRunner\TestRunner\bin\Debug\net6.0\ref\TestRunner.dll
+C:\Development\HackerRankTests\TestRunner\TestRunner\bin\Debug\net6.0\TestRunner.pdb
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.csproj.AssemblyReference.cache
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.AssemblyInfoInputs.cache
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.AssemblyInfo.cs
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.csproj.CoreCompileInputs.cache
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.dll
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\ref\TestRunner.dll
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.pdb
+C:\Development\HackerRankTests\TestRunner\TestRunner\obj\Debug\net6.0\TestRunner.genruntimeconfig.cache
